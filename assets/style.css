@@ -9,3 +9,8 @@ h1{
     margin: 100px auto;
     color: brown;
 }
+p{
+    width: max-content;
+    margin: 100px auto;
+    color:cadetblue;
+}
